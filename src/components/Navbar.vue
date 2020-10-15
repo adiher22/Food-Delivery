@@ -13,9 +13,7 @@
             <li class="nav-item">
                 <router-link class="nav-link" to="/food">Food</router-link>
             </li>
-            <li class="nav-item">
-                <router-link class="nav-link" to="/categories">Categories</router-link>
-            </li>
+           
             
             </ul>
             <ul class="navbar-nav ml-auto">
